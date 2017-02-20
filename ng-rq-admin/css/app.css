@@ -1,0 +1,144 @@
+.header-quick-nav .pull-right .chat-toggler {
+  min-width: 0; }
+
+.h100 {
+    position: fixed;
+    top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  overflow: auto;
+}
+
+#indexManageTable tr td:nth-child(1), #indexManageTable tr td:nth-child(3) {
+  cursor: pointer; }
+#indexManageTable tr td img {
+  height: 48px;
+  width: 48px; }
+#indexManageTable tr td div {
+  margin: 15px 0 0 0; }
+
+.mask .imgttMask {
+  display: block;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 10%;
+  bottom: 10%;
+  width: 65%;
+  margin: auto;
+  border: 2px solid #FFFFFF;
+  overflow:auto;
+}
+.imgttMask img{
+	width: 100%;
+}
+.imgrow img{
+	width: 20px;
+	height: 20px;
+}
+.contentForm {
+  margin: 30px 0 0 0;
+  padding: 0; }
+
+.pbm0 {
+  padding: 0;
+  border: 0;
+  margin: 0;
+
+}
+
+.userBg {
+  background: #FFFFFF;
+  display: block;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 30%;
+  margin: 150px auto;
+  font-weight: 600; }
+  .userBg .row {
+    margin: 50px 0 0 0; }
+    .userBg .row div {
+      margin: 10px 0; }
+
+#userTable tr {
+  cursor: pointer;
+}
+.accountTable p{
+  margin-top: 10px;
+  font-size: 14px;
+  text-align: center;
+}
+.accountTable th{
+  text-align: center;
+}
+.companyTable p{
+  text-align: center;
+  margin: 0;
+}
+.companyTable th{
+   text-align: center;
+ }
+.hintMask{
+  position: fixed;
+  height: 70px;
+  width: 350px;
+  background: #ffffff;
+  top: 50%;
+  left: 50%;
+  bottom: 0;
+  right: 0;
+  margin-top: -50px;
+  margin-left: -100px;
+}
+.hintMask button{
+  margin: 17px 0 17px 36px;
+}
+.sort{
+  cursor: pointer;
+  font-size: 12px;
+}
+.sort img{
+  float: right;
+  margin-top: 2px;
+  height: 12px;
+}
+.hintTTX .hintMask{
+  margin-left: -200px;
+  margin-top: -200px;
+  width: 400px;
+  height: 400px;
+}
+.hintTTX h3{
+  text-align: center;
+}
+.hintTTX>div>div{
+  margin: 40px 30px ;
+}
+.hintTTX span{
+  font-size: 14px;
+  color: #222222;
+}
+#serialnumber{
+  padding: 5px !important;
+  min-height: 27px !important;
+  width: 250px;
+}
+#remark{
+  width: 250px;
+  min-height: 100px;
+}
+.hintTTX button{
+  margin-left: 50px;
+}
+.delete p{
+  color: red !important;
+  cursor: pointer;
+}
+.searchIp{
+  width: 300px;
+  margin-right: 10px;
+}
