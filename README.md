@@ -1,6 +1,6 @@
 # ng-require-admin
 用require+angular做的后台管理模板，本来是个完整的项目，被我删减了。
-这个项目本来是我学习怎么构建框架，是angular.js和requiew.js很基础的，很适合初学者。有什么不足的地方请指出。
+这个项目本来是我学习怎么构建框架，是angular.js和require.js很基础的，很适合初学者。有什么不足的地方请指出。
 
 
 assets文件夹是后台模板的文件
